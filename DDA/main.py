@@ -18,3 +18,5 @@ turtle.penup()
 for x, y in Points_to_Plot:
     turtle.goto(x,y)
     turtle.dot(2)
+
+turtle.done()

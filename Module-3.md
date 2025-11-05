@@ -1,8 +1,3 @@
-Perfect — here’s a **comprehensive and well-organized set of notes** on **Module 3: Introduction to Image Processing** from *Computer Graphics and Image Processing*.
-Formatted for clarity and study purposes 👇
-
----
-
 # 🧠 **Module 3: Introduction to Image Processing**
 
 ---

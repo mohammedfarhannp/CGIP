@@ -28,7 +28,7 @@ def Bresenhams_Line_Algo(x1, y1, x2, y2):
 
     return tmp
 
-pts = Bresenhams_Line_Algo(0, 0, 30, 100)
+pts = Bresenhams_Line_Algo(0, 9, -5, 100)
 
 turtle.speed(0)
 turtle.hideturtle()

@@ -1,6 +1,6 @@
 # Z - Buffer
 Z-Buffer is a *Image Space Approach* implemented at screen coordination system.
-The basic idea is to test z-buffer of each surface to determine the surface closest to visible screen.
+The basic idea is to test z-depth of each surface to determine the surface closest to visible screen.
 
 To override the closer polygon from the far polygon we use two buffers named *frame buffer* and *depth buffer*
 - *frame buffer* is used to store intensity of color values of (x, y) positions.
